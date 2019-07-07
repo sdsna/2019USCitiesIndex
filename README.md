@@ -13,13 +13,14 @@ For data from our other projects, see https://github.com/sdsna.
 
 ## Data
 
-The data is distributed in Excel and Stata format.
+The data is distributed 2 files, 1) data in Excel and Stata format and 2) a codebook in Excel format. 
 
-1. Cross-sectional data from most recent year, US State Index Results 2018, available in [Excel](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.xlsx) format.
+1. Cross-sectional data from most recent year, US State Index Results 2018, available in [Excel](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.xlsx) and [Stata](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.dta) format.
+2. A [codebook](https://github.com/sdsna/2019USCitiesIndex/blob/master/Codebook.xlsx) containing variable source and metatadata
 
 ## Methodology
 
-[US State Index and Dashboards - Methodology 2018](https://github.com/sdsna/2018USStateIndex/blob/master/2018USStateIndexMethodology.pdf)
+[US Cities Index Methodology 2019](https://github.com/sdsna/2018USStateIndex/blob/master/2019USCitiesIndexMethodology.pdf)
 
 ## License
 
@@ -32,7 +33,7 @@ Publication design and layout by [Stislow Design](https://www.stislow.com/).
 
 ## Endmatter
 
-Please notify us about any publications that result from the use of the SDG Index and Dashboards Report and data by sending your bibliographic citation to usa@sdsn.org and including information on your publication.
+Please notify us about any publications that result from the use of the SDG Index and Dashboards Report and data by sending your bibliographic citation to usa@unsdsn.org and including information on your publication.
 
 If you have questions, please contact SDSN at <usa@unsdsn.org>.
 
