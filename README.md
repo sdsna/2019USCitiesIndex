@@ -20,7 +20,7 @@ The data is distributed 2 files, 1) data in Excel and Stata format and 2) a code
 
 ## Methodology
 
-The [Methodology](https://github.com/sdsna/2018USStateIndex/blob/master/2019USCitiesMethodology.pdf) from the 2019 US Cities Index. 
+The [Methodology](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesMethodology.pdf) from the 2019 US Cities Index. 
 
 ## License
 
